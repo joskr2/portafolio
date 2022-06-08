@@ -4,18 +4,18 @@ export default function Index() {
   return (
     <div className="screen index">
       <Head>
-        <title>Aleph.js</title>
-        <meta name="description" content="The Fullstack Framework in Deno." />
+        <title>Josue Retamozo Vargas</title>
+        <meta name="description" content="Portafolio." />
       </Head>
-      <p className="logo">
-        <img src="/assets/logo.svg" width="75" height="75" title="Aleph.js" />
-      </p>
+      {/* <p className="logo">
+        <img src="/assets/new-logo.svg" width="75" height="75" title="Josue" />
+      </p> */}
       <h1>
-        The Fullstack Framework in Deno.
+        Josue Patricio Retamozo Vargas.
       </h1>
       <p>
-        <strong>Aleph.js</strong> gives you the best developer experience for building web applications<br />{" "}
-        with modern toolings.
+        Frontend Developer<br />{" "}
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti .
       </p>
       <div className="external-links">
         <a href="https://alephjs.org/docs/get-started" target="_blank">
